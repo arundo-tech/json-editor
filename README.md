@@ -1,6 +1,50 @@
 JSON Editor
 ===========
 
+
+## Project Status
+
+This projet is a friendly fork of the [json-editor/json-editor](https://github.com/json-editor/json-editor) project.
+We will provide pull requests as needed.
+
+The main features we are targeting are :
+* [ ] integration of a formula engine
+* [ ] navigation with a table of content
+* [ ] contextual help content
+* [ ] sidebar integration
+* [ ] integration of deltav
+* [ ] multi-level tabs and folding 
+
+We already have some of those features already developped.
+We need to clean the code before opening it.
+
+
+Screenshot of deltav integration in the sidebar :
+![](https://paxpar.tech/codimd/uploads/upload_66a9b33433edc1f9b5711459259fb5d5.png)
+
+
+Screenshot of the formula engine integration : 
+
+![](https://paxpar.tech/codimd/uploads/upload_4e8eb3df8d82d764d623e3e99d956baa.png)
+
+
+Screenshot of the multi-level tabs and folding feature : 
+
+![](https://paxpar.tech/codimd/uploads/upload_7ba18a40558f4e8be1cb8a006ef2e650.png)
+
+
+## Contributors and sponsors
+
+Any help will be apprciated.
+You are welcome to contribute or [sponsor]() our work.
+
+We don't give out ETA but if you have a critical dependency you could [contact us](mailto:info@arundo.tech) for ideas to funding or prioritizing the feature.
+
+
+
+
+# Original README:
+
 [![Build Status](https://travis-ci.org/json-editor/json-editor.svg?branch=master)](https://travis-ci.org/json-editor/json-editor)
 Fork of the inactive [jdorn/json-editor](https://github.com/jdorn/json-editor) using the updated fork [json-editor/json-editor](https://github.com/json-editor/json-editor).
 Some pull requests added from the original repo.
